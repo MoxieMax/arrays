@@ -22,7 +22,10 @@ account_balance.push(35.23)
 #.unshift will add the specified element to the first index position of the array
 variable.unshift(false)
 
-#
+#prints the element in the indicated index position of the array
+p names.fetch(2)
+
+#prints the changes in the arrays
 p names
 p vehicle_tires
 p account_balance
