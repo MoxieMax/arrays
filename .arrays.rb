@@ -24,6 +24,6 @@ variable.unshift(false)
 
 #
 p names
-p vehicle tires
+p vehicle_tires
 p account_balances
 p variable
